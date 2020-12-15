@@ -14,7 +14,7 @@ paginate     = 10
 
   # Subtitle for home
   homeSubtitle = "dragons"
-
+  
   # Set disableReadOtherPosts to true in order to hide the links to other posts.
   disableReadOtherPosts = false
 
@@ -49,6 +49,7 @@ paginate     = 10
     #
     # path = "/img/your-example-logo.svg"
     # alt = "Your example logo alt text"
+    logoCursorAnimate  = "1s"
 
   # And you can even create generic menu
   [[menu.main]]
