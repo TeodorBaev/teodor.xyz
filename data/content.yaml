@@ -1,0 +1,78 @@
+BasicInfo:
+  FirstName: Teodor
+  LastName: Baev
+  Photo: img/avatar.png
+  Contacts:
+    - Icon: fas fa-phone
+      Info: +0887 399 032
+    - Icon: fas fa-envelope
+      Info: teodorbaev@live.com
+    - Icon: fas fa-globe
+      Info: Bulgaria
+    - Icon: fas fa-map-marker-alt
+      Info: Varna
+
+Profile: I have always been fascinated by technology and I like to tinker with hardware and software. The past two years I have acquired some basic skills in programming and in 2020 I went down the rabbit hole of GNU/Linux.
+
+Experience:
+  - Employer: GymRealm AD
+    Place: Varna, BG
+    Positions:
+      - Title: Quality assurance | Technical support
+        Date: Jan 2017 - Mar 2019
+        Details:
+          - Software testing
+          - Tech support
+          - Deploying our software remotely and on location
+          - Set-up point of sale terminals, printers and access control devices
+          - Communication between clients and our development team
+          - Managing scrum cards and writing technical documentation
+          - Making basic SQL queries
+        Badges: ['Python', 'Django', 'OOP', 'Javascript', 'HTML', 'CSS', 'Agile']
+  - Employer: TV Varna AD
+    Place: Varna, BG
+    Positions:
+      - Title: Camera Operator | Technician
+        Date: 2009 - 2010
+        Details:
+          - Camera operator
+          - Set-up studio equipment for live broadcast
+          - Working with lights, cameras and microphones
+        Badges: ['Python', 'BDD', 'Selenium', 'OOP', 'Agile']
+
+Education:
+  - Course: National High School of Humanities and Arts "Konstantin Preslavski"
+    Date: 2003 - 2008
+
+Skills:
+  - Family: Programming
+    Items:
+      - Bash
+      - Python
+  - Family: Frameworks
+    Items:
+      - Django
+      - Hugo
+  - Family: Developer Tools
+    Items:
+      - Linux
+      - Git
+      - Docker
+      - Ansible
+      - VirtualBox / QEMU KVM
+  - Family: Misc
+    Items:
+      - Adobe Photoshop
+      - Adobe After Effects
+
+Languages:
+  - Name: Bulgarian
+    Level: Native
+  - Name: English
+    Level: C2
+
+Interests:
+  - Guitars
+  - Motorcycles
+  - Chess
+  - Beer
