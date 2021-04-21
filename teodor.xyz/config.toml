@@ -61,7 +61,7 @@ disableHugoGeneratorInject = false
 
   # Home subtitle of the index page.
   #
-  homeSubtitle = "Information Technology Generalist"
+  homeSubtitle = "Linux, open-source and penguins"
 
   # Set a background for the homepage
   # backgroundImage = "assets/images/background.jpg"
