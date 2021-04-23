@@ -3,8 +3,8 @@ title   = "Teodor Baev"
 languageCode = "en-us"
 theme = "hugo-theme-hello-friend-ng"
 
-PygmentsCodeFences = false
-PygmentsStyle = "tomorrow night"
+PygmentsCodeFences = true
+PygmentsStyle = "monokai"
 
 paginate  = 10
 rssLimit  = 10  # Maximum number of items in the RSS feed.
@@ -80,7 +80,7 @@ disableHugoGeneratorInject = false
   # Per default, this option is off. 
   # The theme is respecting the prefers-color-scheme of the operating systeme. 
   # With this option on, the page user is able to set the scheme he wants. 
-  enableThemeToggle = true 
+  enableThemeToggle = false
 
   # Sharing buttons
   #
